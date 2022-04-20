@@ -1,0 +1,7 @@
+export type Meetup = {
+    id: string,
+    title: string,
+    address: string,
+    image: string,
+    description: string
+};

@@ -1,0 +1,22 @@
+.m-meetup {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    color:#f5f5f5;
+    margin:0 0 8px;
+}
+
+.a-meetup-image {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.m-meetup-details {
+    position: absolute;
+    bottom:0;
+    left:0;
+    width:100%;
+    background:#333c;
+    padding: 8px;
+}
